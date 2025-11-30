@@ -1,18 +1,48 @@
 # Olá, eu sou Luiz Oliveira 👋
 
-Desenvolvedor Full-Stack em formação | Java + Spring Boot | HTML/CSS/JS
+> Desenvolvedor Full-Stack em formação | Java + Spring Boot | HTML/CSS/JS  
+> Apaixonado por código limpo, inovação e segurança da informação.
 
-🔭 Atualmente estudando na Cruzeiro do sul e construindo projetos reais  
-🚀 Trabalhando na modernização do site da [LT Conserva](https://ltconserva.com.br)  
-⚙️ Construindo APIs REST com Spring Boot e deploy no Render  
-❤️ Apaixonado por código limpo e segurança da informação  
+---
 
-### 🚀 Projetos em destaque
-![Java](https://github.com/lcolivei/api-tarefas-java.git)
+## Sobre mim  
+Sou apaixonado por desenvolvimento de software, com foco em Java e segurança. Estou sempre aprendendo novas tecnologias e buscando aplicar boas práticas em projetos reais.
 
-- ApiTarefasJava → API REST completa com Spring Boot + Lombok (em desenvolvimento)
-- Site LTConserva → Modernização completa do visual com CSS moderno e responsivo
-- Projetos da DIO → Labs e desafios práticos (open-source)
+- 🎓 Atualmente estudando na Cruzeiro do sul
+- 👨‍💻 Trabalhando na modernização do site da [LT Conserva](https://ltconserva.com.br)
+- 🛠️ Construção de APIs REST com Spring Boot e deploy no Render
 
-📫 lco.evangelista@hotmail.com | [LinkedIn](https://www.linkedin.com/in/lcolivei)
+---
 
+## 💼 Projetos em Destaque
+
+| Projeto                  | Descrição                                                    | Tecnologias                      | Status         | Link                        |
+|--------------------------|--------------------------------------------------------------|----------------------------------|---------------|-----------------------------|
+| ApiTarefasJava           | API REST para tarefas, com Spring Boot + Lombok              | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) | Em desenvolvimento | [Ver projeto](https://github.com/lcolivei/api-tarefas-java) |
+| Site LT Conserva         | Modernização de site: CSS moderno, responsivo                | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | Concluído        | [Ver projeto](https://ltconserva.com.br) |
+| Projetos DIO             | Labs e desafios open-source                                  | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) | Em andamento     | [Ver projetos](https://github.com/lcolivei?tab=repositories&q=DIO&type=&language=) |
+
+---
+
+## 📸 Demonstração
+
+![Screenshot da API Tarefas](link-para-imagem-exemplo.png)
+*Coloque aqui imagens de destaque dos seus projetos!*
+
+---
+
+## 🌟 Contribuições Open Source
+
+- [DIO](https://github.com/lcolivei?tab=repositories&q=DIO&type=&language=): Desafios práticos e labs.
+
+---
+
+## 📫 Contato e Redes Sociais
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lcolivei)  
+[![Email](https://img.shields.io/badge/Email-lco.evangelista@hotmail.com-blue?style=flat-square&logo=gmail)](mailto:lco.evangelista@hotmail.com)
+
+---
+
+**Idiomas:**  
+Disponível também em inglês em breve!
