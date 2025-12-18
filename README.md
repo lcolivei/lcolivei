@@ -16,8 +16,9 @@ Sou apaixonado por desenvolvimento de software, com foco em Java e segurança. E
 
 ## 💼 Projetos em Destaque
 
-| Projeto                  | Descrição                                                    | Tecnologias                      | Status         | Link                        |
-|--------------------------|--------------------------------------------------------------|----------------------------------|---------------|-----------------------------|
+| Projeto                  | Descrição                                                    | Tecnologias                      | Status         | Link                      |
+
+
 
 | Site LT Conserva         | Modernização de site: CSS moderno, responsivo                | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | Em andamento        | [Ver projeto](https://ltconserva.com.br) |
 | Projetos DIO             | Labs e desafios open-source                                  | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) | Em andamento     | [Ver projetos](https://github.com/lcolivei?tab=repositories&q=DIO&type=&language=) |
