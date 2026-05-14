@@ -1,7 +1,7 @@
 # Luiz Oliveira 
 
 > Desenvolvedor Full-Stack em formação | Java + Spring Boot | HTML/CSS/JS  
-> Apaixonado inovação e segurança da informação.
+> Apaixonado por inovação e segurança da informação.
 
 ---
 
